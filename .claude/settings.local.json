@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm uninstall *)",
+      "Bash(npm install *)",
+      "Bash(npx vite *)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "mcp__Claude_in_Chrome__list_connected_browsers",
+      "Bash(git add *)"
+    ]
+  }
+}
